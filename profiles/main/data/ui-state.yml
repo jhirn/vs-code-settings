@@ -1,0 +1,251 @@
+drcika.apc-extension: '{"isEnabled":false}'
+ms-azuretools.vscode-docker: '{"isRegistryMigrated":true,"vscode-docker.activity.overallnoedit":{"lastSession":1731431392469,"currentMonthSessions":1,"totalSessions":6},"vscode-docker.activity.overall":{"lastSession":1731431392481,"currentMonthSessions":1,"totalSessions":6},"VSCode.ABExp.FeatureData":{"features":["account-aa","config.editor.experimental.asyncTokenization","copilotchat.renameSuggestionsDelayBeforeFetch","livesharecontinuousaa","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","vscode-docker.aatest"],"assignmentContext":"vsliv368:30146709;vscode-docker_aaflight:30153983;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;vsaa593:30376534;c4g48928:30535728;asynctok:30898717;f3je6385:31013174;","configs":[{"Id":"vscode","Parameters":{"account-aa":true,"config.editor.experimental.asyncTokenization":true,"copilotchat.renameSuggestionsDelayBeforeFetch":50,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"vscode-docker.aatest":true}}]}}'
+ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
+ms-python.vscode-pylance: '{"VSCode.ABExp.FeatureData":{"features":["account-aa","config.editor.experimental.asyncTokenization","config.mypy-type-checker.preferDaemoncf","config.python.analysis.addImport.heuristics","config.python.analysis.completionOverrideExperiment","config.python.analysis.experimentalserver","config.python.analysis.gotoDefinitionInStringLiteral","config.python.analysis.supportRestructuredText","config.python.createEnvironment.contentButton","config.python.REPL.sendToNativeREPLcf","copilotchat.renameSuggestionsDelayBeforeFetch","copilotImplementAbstractClasses","ExpandSolutionExplorerControlcf","livesharecontinuousaa","pythonRecommendTensorboardExt","pythonTerminalEnvVarActivation","pythonTestAdapter"],"assignmentContext":"vsliv368:30146709;vsaa593:30376534;py29gd2263:31024239;962ge761:30959799;pythongtdpath:30769146;pythonnoceb:30805159;asynctok:30898717;pythonmypyd1:30879173;pythontbext0:30951920;pythonait:31006305;f3je6385:31013174;nativerepl2:31139839;refactort:31108082;pythonrstrctxt:31112756;defaultse:31146405;iacca1:31156133;notype1cf:31157160;","configs":[{"Id":"vscode","Parameters":{"account-aa":true,"config.editor.experimental.asyncTokenization":true,"config.mypy-type-checker.preferDaemon":false,"config.python.analysis.addImport.heuristics":true,"config.python.analysis.completionOverrideExperiment":true,"config.python.analysis.experimentalserver":true,"config.python.analysis.gotoDefinitionInStringLiteral":true,"config.python.analysis.supportRestructuredText":true,"config.python.createEnvironment.contentButton":"hide","config.python.REPL.sendToNativeREPL":false,"copilotchat.renameSuggestionsDelayBeforeFetch":50,"copilotImplementAbstractClasses":true,"ExpandSolutionExplorerControl":false,"livesharecontinuousaa":true,"pythonRecommendTensorboardExt":true,"pythonTerminalEnvVarActivation":true,"pythonTestAdapter":true}}]}}'
+Shan.code-settings-sync: '{"syncCounter":3071,"landingPage.dontShowThisAgain":true}'
+Shopify.ruby-extensions-pack: '{"shopify.ruby-extensions-pack.offeredTheme":true}'
+Shopify.ruby-lsp: '{"rubyLsp.disableMultirootLockfileWarning":true}'
+vscode-icons-team.vscode-icons: '{"vsicons":{"version":"12.10.0","status":0,"welcomeShown":true}}'
+workbench.accounts.experimental.showEntitlements: "false"
+workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.aichat","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.aipaneaaaireview","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.composerViewPane2","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.aipaneaaaiBugFinder","pinned":true,"visible":false,"order":3}]'
+workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.aichat","themeIcon":{"id":"files"},"name":"Chat","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.aipaneaaaireview","name":"Review","isBuiltin":false},{"id":"workbench.panel.composerViewPane2","themeIcon":{"id":"files"},"name":"Composer","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.aipaneaaaiBugFinder","themeIcon":{"id":"bug"},"name":"Bug
+  Finder","isBuiltin":true,"views":[{"when":"true"}]}]'
+workbench.auxiliaryBar.size: "623"
+workbench.chat.experimental.showWelcomeView: "false"
+workbench.contrib.onboarding.browser.gettingStarted.contribution.ts.firsttime: "false"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["html",true],["xml",true],["json",true],["coffeescript",true],["haml",true],["gemfile",true],["ruby",true],["javascript",true],["plaintext",true],["jsonc",true],["shellscript",true],["yaml",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"dependencies","isHidden":false},{"id":"notepad","isHidden":false},{"id":"sqltoolsViewConsoleMessages","isHidden":false},{"id":"sqltoolsViewConnectionExplorer","isHidden":false},{"id":"sqltoolsViewBookmarksExplorer","isHidden":false},{"id":"sqltoolsViewHistoryExplorer","isHidden":false}]'
+workbench.grid.size: '{"height":768,"width":1024}'
+workbench.panel.aichat.hidden: '[{"id":"workbench.panel.aichat.view","isHidden":false}]'
+workbench.panel.aichat.view.aichat.chatdata: "{\"tabs\":[{\"tabId\":\"ca8a9c88-\
+  a27d-4d74-9051-0b9794d906eb\",\"chatTitle\":\"\",\"bubbles\":[{\"notepads\":[\
+  ],\"selections\":[],\"fileSelections\":[],\"folderSelections\":[],\"selectedD\
+  ocs\":[],\"selectedCommits\":[],\"selectedPullRequests\":[],\"terminalSelecti\
+  ons\":[],\"terminalFiles\":[],\"quotes\":[],\"externalLinks\":[],\"selectedIm\
+  ages\":[],\"useWeb\":false,\"mentions\":{\"notepads\":{},\"selections\":{},\"\
+  fileSelections\":{},\"folderSelections\":{},\"selectedDocs\":{},\"selectedCom\
+  mits\":{},\"selectedPullRequests\":{},\"terminalSelections\":{},\"terminalFil\
+  es\":{},\"quotes\":{},\"externalLinks\":{},\"selectedImages\":{},\"gitDiff\":\
+  [],\"gitDiffFromBranchToMain\":[],\"usesCodebase\":[],\"useWeb\":[]},\"type\":\
+  \"user\",\"id\":\"697bd546-ad0e-4736-8c24-9023cdc3d6bd\",\"messageType\":2,\"\
+  dropdownAdvancedCodebaseSearchBehavior\":\"embeddings\",\"followup\":false,\"\
+  isFocused\":false}],\"lastSendTime\":1730910742827,\"tabState\":\"chat\",\"lo\
+  ngContextModeEnabled\":false,\"lastFocusedBubbleId\":\"697bd546-ad0e-4736-8c2\
+  4-9023cdc3d6bd\"},{\"tabId\":\"a468b69f-150c-4e4b-bb38-fc87610e1dc7\",\"tabSt\
+  ate\":\"chat\",\"bubbles\":[{\"notepads\":[],\"selections\":[],\"fileSelectio\
+  ns\":[],\"folderSelections\":[],\"selectedDocs\":[],\"selectedCommits\":[],\"\
+  selectedPullRequests\":[],\"terminalSelections\":[],\"terminalFiles\":[],\"qu\
+  otes\":[],\"externalLinks\":[],\"selectedImages\":[],\"useWeb\":false,\"menti\
+  ons\":{\"notepads\":{},\"selections\":{},\"fileSelections\":{},\"folderSelect\
+  ions\":{},\"selectedDocs\":{},\"selectedCommits\":{},\"selectedPullRequests\"\
+  :{},\"terminalSelections\":{},\"terminalFiles\":{},\"quotes\":{},\"externalLi\
+  nks\":{},\"selectedImages\":{},\"gitDiff\":[],\"gitDiffFromBranchToMain\":[],\
+  \"usesCodebase\":[],\"useWeb\":[]},\"type\":\"user\",\"id\":\"95100b61-b14a-4\
+  c07-8cb4-e4f7b42eba45\",\"messageType\":2,\"dropdownAdvancedCodebaseSearchBeh\
+  avior\":\"embeddings\",\"followup\":false,\"isFocused\":false,\"text\":\"why
+  are my vscode extensions not imported into
+  cursor\",\"cachingStatus\":{\"promptIsCached\":false,\"numCharsTypedSinceProm\
+  ptChanged\":2},\"richText\":\"{\\\"root\\\":{\\\"children\\\":[{\\\"children\\\
+  \":[{\\\"detail\\\":0,\\\"format\\\":0,\\\"mode\\\":\\\"normal\\\",\\\"style\\\
+  \":\\\"\\\",\\\"text\\\":\\\"why are my vscode extensions not imported into
+  cursor\\\",\\\"type\\\":\\\"text\\\",\\\"version\\\":1}],\\\"direction\\\":\\\
+  \"ltr\\\",\\\"format\\\":\\\"\\\",\\\"indent\\\":0,\\\"type\\\":\\\"paragraph\
+  \\\",\\\"version\\\":1}],\\\"direction\\\":\\\"ltr\\\",\\\"format\\\":\\\"\\\
+  \",\\\"indent\\\":0,\\\"type\\\":\\\"root\\\",\\\"version\\\":1}}\",\"initText\
+  \":\"{\\\"root\\\":{\\\"children\\\":[{\\\"children\\\":[{\\\"detail\\\":0,\\\
+  \"format\\\":0,\\\"mode\\\":\\\"normal\\\",\\\"style\\\":\\\"\\\",\\\"text\\\
+  \":\\\"why are my vscode extensions not imported into
+  cursor\\\",\\\"type\\\":\\\"text\\\",\\\"version\\\":1}],\\\"direction\\\":\\\
+  \"ltr\\\",\\\"format\\\":\\\"\\\",\\\"indent\\\":0,\\\"type\\\":\\\"paragraph\
+  \\\",\\\"version\\\":1}],\\\"direction\\\":\\\"ltr\\\",\\\"format\\\":\\\"\\\
+  \",\\\"indent\\\":0,\\\"type\\\":\\\"root\\\",\\\"version\\\":1}}\"},{\"type\
+  \":\"ai\",\"messageType\":3,\"id\":\"cfaa7d54-6a55-4eae-a335-a14bf639df2d\",\
+  \"text\":\"There could be several reasons why your VS Code extensions are not
+  being imported into Cursor. Here are a few possibilities and potential
+  solutions:\\n\\n1. Different extension marketplaces:\\n   Cursor may use a
+  different extension marketplace than VS Code. While Cursor is based on VS
+  Code, it might not have access to all the same extensions.\\n\\n2.
+  Incompatible versions:\\n   Some VS Code extensions might not be compatible
+  with the version of Cursor you're using. Cursor is based on VS Code but may
+  not always be on the latest version.\\n\\n3. Settings synchronization:\\n   If
+  you're using VS Code's built-in settings sync feature, it might not
+  automatically sync with Cursor. You may need to manually install extensions in
+  Cursor.\\n\\n4. Different user profiles:\\n   Cursor might be using a
+  different user profile than your VS Code installation, so it wouldn't have
+  access to the same extensions.\\n\\n5. Cursor-specific
+  limitations:\\n   Cursor may have intentional limitations on which extensions
+  can be imported or used, possibly for performance or compatibility
+  reasons.\\n\\nTo address this issue, you could try the following:\\n\\n1.
+  Manually install the extensions you need in Cursor.\\n2. Check if there are
+  Cursor-specific versions of the extensions you're trying to use.\\n3. Ensure
+  you're using the latest version of Cursor.\\n4. Look for any settings in
+  Cursor related to extension importing or synchronization.\\n\\nIf you need
+  specific extensions that aren't available in Cursor, you might want to
+  consider using VS Code for those particular tasks or projects that require
+  those
+  extensions.\",\"aiType\":\"chat\",\"modelType\":\"claude-3.5-sonnet\",\"sugge\
+  stedDiffs\":[],\"referencedCodeBlockURIs\":[],\"requestId\":\"1ebe72f6-b60a-4\
+  14a-9fab-04a69423c799\",\"rawText\":\"There could be several reasons why your
+  VS Code extensions are not being imported into Cursor. Here are a few
+  possibilities and potential solutions:\\n\\n1. Different extension
+  marketplaces:\\n   Cursor may use a different extension marketplace than VS
+  Code. While Cursor is based on VS Code, it might not have access to all the
+  same extensions.\\n\\n2. Incompatible versions:\\n   Some VS Code extensions
+  might not be compatible with the version of Cursor you're using. Cursor is
+  based on VS Code but may not always be on the latest version.\\n\\n3. Settings
+  synchronization:\\n   If you're using VS Code's built-in settings sync
+  feature, it might not automatically sync with Cursor. You may need to manually
+  install extensions in Cursor.\\n\\n4. Different user profiles:\\n   Cursor
+  might be using a different user profile than your VS Code installation, so it
+  wouldn't have access to the same extensions.\\n\\n5. Cursor-specific
+  limitations:\\n   Cursor may have intentional limitations on which extensions
+  can be imported or used, possibly for performance or compatibility
+  reasons.\\n\\nTo address this issue, you could try the following:\\n\\n1.
+  Manually install the extensions you need in Cursor.\\n2. Check if there are
+  Cursor-specific versions of the extensions you're trying to use.\\n3. Ensure
+  you're using the latest version of Cursor.\\n4. Look for any settings in
+  Cursor related to extension importing or synchronization.\\n\\nIf you need
+  specific extensions that aren't available in Cursor, you might want to
+  consider using VS Code for those particular tasks or projects that require
+  those
+  extensions.\",\"codeBlocks\":[]},{\"notepads\":[],\"selections\":[],\"fileSel\
+  ections\":[],\"folderSelections\":[],\"selectedDocs\":[],\"selectedCommits\":\
+  [],\"selectedPullRequests\":[],\"terminalSelections\":[],\"terminalFiles\":[],\
+  \"quotes\":[],\"externalLinks\":[],\"selectedImages\":[],\"useWeb\":false,\"m\
+  entions\":{\"notepads\":{},\"selections\":{},\"fileSelections\":{},\"folderSe\
+  lections\":{},\"selectedDocs\":{},\"selectedCommits\":{},\"selectedPullReques\
+  ts\":{},\"terminalSelections\":{},\"terminalFiles\":{},\"quotes\":{},\"extern\
+  alLinks\":{},\"selectedImages\":{},\"gitDiff\":[],\"gitDiffFromBranchToMain\"\
+  :[],\"usesCodebase\":[],\"useWeb\":[]},\"type\":\"user\",\"id\":\"3e5700c2-99\
+  2e-4580-81a9-b0593a0195fd\",\"messageType\":2,\"dropdownAdvancedCodebaseSearc\
+  hBehavior\":\"embeddings\",\"followup\":true,\"text\":\"what's a quick way to
+  sync extensions between cursor and
+  VScode?\",\"richText\":\"{\\\"root\\\":{\\\"children\\\":[{\\\"children\\\":[{\
+  \\\"detail\\\":0,\\\"format\\\":0,\\\"mode\\\":\\\"normal\\\",\\\"style\\\":\\\
+  \"\\\",\\\"text\\\":\\\"what's a quick way to sync extensions between cursor
+  and
+  VScode?\\\",\\\"type\\\":\\\"text\\\",\\\"version\\\":1}],\\\"direction\\\":\\\
+  \"ltr\\\",\\\"format\\\":\\\"\\\",\\\"indent\\\":0,\\\"type\\\":\\\"paragraph\
+  \\\",\\\"version\\\":1}],\\\"direction\\\":\\\"ltr\\\",\\\"format\\\":\\\"\\\
+  \",\\\"indent\\\":0,\\\"type\\\":\\\"root\\\",\\\"version\\\":1}}\",\"isFocus\
+  ed\":false,\"initText\":\"{\\\"root\\\":{\\\"children\\\":[{\\\"children\\\":\
+  [{\\\"detail\\\":0,\\\"format\\\":0,\\\"mode\\\":\\\"normal\\\",\\\"style\\\":\
+  \\\"\\\",\\\"text\\\":\\\"what's a quick way to sync extensions between cursor
+  and
+  VScode?\\\",\\\"type\\\":\\\"text\\\",\\\"version\\\":1}],\\\"direction\\\":\\\
+  \"ltr\\\",\\\"format\\\":\\\"\\\",\\\"indent\\\":0,\\\"type\\\":\\\"paragraph\
+  \\\",\\\"version\\\":1}],\\\"direction\\\":\\\"ltr\\\",\\\"format\\\":\\\"\\\
+  \",\\\"indent\\\":0,\\\"type\\\":\\\"root\\\",\\\"version\\\":1}}\"},{\"type\
+  \":\"ai\",\"messageType\":3,\"id\":\"88553263-3616-46e1-bd75-68b788c0cd86\",\
+  \"text\":\"Unfortunately, there isn't a built-in, automatic way to sync
+  extensions between Cursor and VS Code. However, I can suggest a quick manual
+  method to help you sync your extensions:\\n\\n1. Export VS Code extensions
+  list:\\n   Open a terminal in VS Code and run:\\n\\n   ```bash\\n   code
+  --list-extensions > vscode_extensions.txt\\n   ```\\n\\n   This will create a
+  file with a list of all your installed VS Code extensions.\\n\\n2. Install
+  extensions in Cursor:\\n   Open a terminal in Cursor and
+  run:\\n\\n   ```bash\\n   cat vscode_extensions.txt | xargs -L 1 echo code
+  --install-extension\\n   ```\\n\\n   This will generate installation commands
+  for each extension.\\n\\n3. Copy and paste these commands into the Cursor
+  terminal to install the extensions.\\n\\nWhile this method isn't automatic,
+  it's a relatively quick way to sync your extensions. You'll need to repeat
+  this process whenever you install new extensions in VS Code that you want to
+  use in Cursor.\\n\\nKeep in mind that not all VS Code extensions may be
+  compatible with Cursor, so some might fail to install or work properly. Also,
+  this method assumes you're using a Unix-like system (macOS or Linux). If
+  you're on Windows, you'll need to adjust the commands slightly.\\n\\nFor a
+  more permanent solution, you might want to create a simple shell script that
+  automates this process, allowing you to sync extensions with a single command.
+  However, always be cautious when automatically installing extensions, and
+  review the list before running the installation
+  commands.\",\"aiType\":\"chat\",\"modelType\":\"claude-3.5-sonnet\",\"suggest\
+  edDiffs\":[],\"referencedCodeBlockURIs\":[],\"requestId\":\"634e17fb-cd95-458\
+  a-8cd0-ccceb1269d4a\",\"rawText\":\"Unfortunately, there isn't a built-in,
+  automatic way to sync extensions between Cursor and VS Code. However, I can
+  suggest a quick manual method to help you sync your extensions:\\n\\n1. Export
+  VS Code extensions list:\\n   Open a terminal in VS Code and
+  run:\\n\\n   ```bash\\n   code --list-extensions >
+  vscode_extensions.txt\\n   ```\\n\\n   This will create a file with a list of
+  all your installed VS Code extensions.\\n\\n2. Install extensions in
+  Cursor:\\n   Open a terminal in Cursor and run:\\n\\n   ```bash\\n   cat
+  vscode_extensions.txt | xargs -L 1 echo code
+  --install-extension\\n   ```\\n\\n   This will generate installation commands
+  for each extension.\\n\\n3. Copy and paste these commands into the Cursor
+  terminal to install the extensions.\\n\\nWhile this method isn't automatic,
+  it's a relatively quick way to sync your extensions. You'll need to repeat
+  this process whenever you install new extensions in VS Code that you want to
+  use in Cursor.\\n\\nKeep in mind that not all VS Code extensions may be
+  compatible with Cursor, so some might fail to install or work properly. Also,
+  this method assumes you're using a Unix-like system (macOS or Linux). If
+  you're on Windows, you'll need to adjust the commands slightly.\\n\\nFor a
+  more permanent solution, you might want to create a simple shell script that
+  automates this process, allowing you to sync extensions with a single command.
+  However, always be cautious when automatically installing extensions, and
+  review the list before running the installation
+  commands.\",\"codeBlocks\":[]},{\"notepads\":[],\"selections\":[],\"fileSelec\
+  tions\":[],\"folderSelections\":[],\"selectedDocs\":[],\"selectedCommits\":[],\
+  \"selectedPullRequests\":[],\"terminalSelections\":[],\"terminalFiles\":[],\"\
+  quotes\":[],\"externalLinks\":[],\"selectedImages\":[],\"useWeb\":false,\"men\
+  tions\":{\"notepads\":{},\"selections\":{},\"fileSelections\":{},\"folderSele\
+  ctions\":{},\"selectedDocs\":{},\"selectedCommits\":{},\"selectedPullRequests\
+  \":{},\"terminalSelections\":{},\"terminalFiles\":{},\"quotes\":{},\"external\
+  Links\":{},\"selectedImages\":{},\"gitDiff\":[],\"gitDiffFromBranchToMain\":[\
+  ],\"usesCodebase\":[],\"useWeb\":[]},\"type\":\"user\",\"id\":\"1b219bc7-154e\
+  -43ae-9c25-e8f908d2c32d\",\"messageType\":2,\"dropdownAdvancedCodebaseSearchB\
+  ehavior\":\"embeddings\",\"followup\":true,\"text\":\"\",\"isFocused\":false}\
+  ],\"longContextModeEnabled\":false,\"lastFocusedBubbleId\":\"1b219bc7-154e-43\
+  ae-9c25-e8f908d2c32d\",\"noReactiveContext\":true,\"lastSendTime\":1727802166\
+  695,\"chatTitle\":\"VS Code Extensions Not Importing to
+  Cursor\",\"hasNamedTab\":true}],\"codeInterpreterTabs\":[],\"selectedTabId\":\
+  \"ca8a9c88-a27d-4d74-9051-0b9794d906eb\",\"displayTabs\":false,\"editorContext\
+  \":{\"isNotebook\":false,\"hasNonemptySelection\":false},\"debugPromptVisible\
+  \":false,\"pinnedContexts\":{\"fileSelections\":[],\"codeSelections\":[]},\"i\
+  nputBoxDelegate\":{\"c\":{\"__lexicalTextContent\":\"\",\"__lexicalDirTextCon\
+  tent\":\"\",\"__lexicalDir\":null,\"__lexicalEditor\":{\"editorState\":{\"root\
+  \":{\"children\":[{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\
+  \":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":null,\"format\":\"\
+  \",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"__lexicalEventHandles\":\
+  [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,n\
+  ull,null]},\"d\":{\"editorState\":{\"root\":{\"children\":[{\"children\":[],\
+  \"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"vers\
+  ion\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\
+  \"version\":1}}},\"e\":false},\"inputBoxDelegateMap\":{},\"chatDataVersion\":\
+  0}"
+workbench.panel.aipaneaaaiBugFinder.hidden: '[{"id":"workbench.panel.aipane.viewaaaiBugFinder","isHidden":false}]'
+workbench.panel.aipaneaaaireview.hidden: '[{"id":"workbench.panel.aipane.viewaaaireview","isHidden":false}]'
+workbench.panel.alignment: justify
+workbench.panel.chatSidebar.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
+workbench.panel.composerChatViewPane.hidden: '[{"id":"workbench.panel.aichat.view","isHidden":false}]'
+workbench.panel.composerViewPane2.hidden: '[{"id":"workbench.panel.composerViewPane2.view","isHidden":false}]'
+workbench.panel.lastNonMaximizedHeight: "300"
+workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.panel.pinnedPanels: '[{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.terraform-cloud-panel","pinned":true,"visible":false,"order":7},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.placeholderPanels: '[{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
+  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[{"when":"gitlens:plus:enabled
+  && !gitlens:disabled"},{"when":"gitlens:plus:enabled &&
+  !gitlens:disabled"}]},{"id":"workbench.view.extension.terraform-cloud-panel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/hashicorp.terraform-2.34.1-darwin-arm64/assets/icons/vs_code_terraform_cloud.svg","scheme":"file"},"name":"HCP
+  Terraform","isBuiltin":false,"views":[{"when":"terraform.cloud.run.viewingPlan"},{"when":"terraform.cloud.run.viewingApply"}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.panel.size: "270"
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
+workbench.services.onFirstStartupService.isVeryFirstTime: "false"
+workbench.sideBar.size: "278"
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false}]'
+workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
+workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.account","isHidden":false}]'
+workbench.view.extension.gitlensInspect.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false}]'
+workbench.view.extension.gitlensPanel.state.hidden: '[{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false}]'
+workbench.view.extension.sqltoolsActivityBarContainer.state.hidden:
+  '[{"id":"sqltoolsViewConnectionExplorer","isHidden":false},{"id":"sqltoolsViewBookmarksExplorer","isHidden":false},{"id":"sqltoolsViewHistoryExplorer","isHidden":false}]'
+workbench.view.extension.sqltoolsPanelContainer.state.hidden: '[{"id":"sqltoolsViewConsoleMessages","isHidden":false}]'
+workbench.view.extension.terraform-cloud.state.hidden: '[{"id":"terraform.cloud.workspaces","isHidden":false},{"id":"terraform.cloud.runs","isHidden":false}]'
+workbench.view.extension.terraform.state.hidden: '[{"id":"terraform.providers","isHidden":false},{"id":"terraform.modules","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.views.extensions.installed.size: "37"
+zokugun.cron-tasks: '{"version":"0.2.0"}'
